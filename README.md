@@ -71,9 +71,4 @@ Reinforcement Learning for Future Optimization
 🔹 Integration with 6G and AI-Driven Semantic Networks
 🔹 Quantum Key Distribution (QKD) Implementation
 
-🤝 Contributing
-We welcome contributions! Please fork the repository, make improvements, and submit a pull request.
-
-📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
 
